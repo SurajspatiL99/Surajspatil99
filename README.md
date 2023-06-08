@@ -6,7 +6,7 @@ Highly motivated and results-driven Industrial Engineering graduate student with
 <b> Software: </b> Tableau, Power BI, Excel, Alteryx, Jupyter, AWS, Microsoft Office Suite <br>
 <b> Core Skills: </b> Data visualization, Data wrangling, ETL, Statistics, Data Analysis, Hypothesis Testing, Forecasting, Machine Learning, Supervised Learning, Statistical Analysis, Deep Learning, Natural Language Processing
 
-### [Portfolio](https://linkedin.com/in/-surajspatil) 
+### [Portfolio](https://surajspatil99.github.io/SurajPatil.github.io/) 
  
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-surajspatil) 
